@@ -9,7 +9,10 @@ ChromiumDriver.exe
 Copy the repository into any folder of your computer. Open the project in any IDE. Run the Bomber.py or Multi_user_bomber.py as
 per your choice. After running, browser window will open up. Scan the whatsapp QR code there and after it fill the neccesary information
 in the Running Console as shown in the screenshots. Please read the text below the "Attention" heading too.
+
+Browser Screenshot _
 ![action](./screenshot.png)
+You have to fill these asked information in running terminal _
 ![action](./screenshot2.png)
 
 

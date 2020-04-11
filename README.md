@@ -6,9 +6,10 @@ selenium 3.141.0
 ChromiumDriver.exe
 
 # Usage
-Copy the repository into any folder of your computer. Open the project in any IDE. Run the Bomber.py or Multi_user_bomber.py as
-per your choice. After running, browser window will open up. Scan the whatsapp QR code there and after it fill the neccesary information
-in the Running Console as shown in the screenshots. Please read the text below the "Attention" heading too.
+Copy the repository into any folder of your computer. Open the project in any IDE. You can also run the file using cmd
+By typing the command "python bomber.py" in the cmd opened in the same directory. Run the Bomber.py or Multi_user_bomber.py
+as per your choice. After running, browser window will open up. Scan the whatsapp QR code there and after it fill the neccesary
+information in the Running Console as shown in the screenshots. Please read the text below the "Attention" heading too.
 
 Browser Screenshot _
 ![action](./screenshot.png)
